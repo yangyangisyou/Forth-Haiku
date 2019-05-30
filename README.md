@@ -13,4 +13,6 @@ Course：DESIGN MATHEMATICS
 Reference：  
 [1] FigTaiwan: https://sites.google.com/site/figtaiwanfigtaiwan/home  
 [2] Flag: https://forthsalon.appspot.com/haiku-view/ahBzfmZvcnRoc2Fsb24taHJkchILEgVIYWlrdRiAgICAzZ3GCAw  
-[3] walking in the rainning day: https://forthsalon.appspot.com/haiku-view/ahBzfmZvcnRoc2Fsb24taHJkchILEgVIYWlrdRiAgICAvOyMCww 
+[3] walking in the rainning day: https://forthsalon.appspot.com/haiku-view/ahBzfmZvcnRoc2Fsb24taHJkchILEgVIYWlrdRiAgICAvOyMCww
+[4] 設計數學基礎，茍秉宸，北京理工大學出版社 2007
+[5] 設計數學，徐人平，化學工業出版社 2006
